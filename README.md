@@ -37,6 +37,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 | [@frogchomp3673](https://www.youtube.com/@frogchomp3673) | 6 | 210 | 2022 |
 | [@golden_winged8736](https://www.youtube.com/@golden_winged8736/) | 12 | 18,600 | 2021 |
 | [@holymackerelthethird2478](https://www.youtube.com/@holymackerelthethird2478) | 31 | 18,600 | 2016 |
+| [@ivy_0149](https://www.youtube.com/@ivy_0149) | 9 | 240 | 2023 |
 | [@JackClishem](https://www.youtube.com/@JackClishem) | 59 | 20,700 | 2022 |
 | [@Jerma985OutOfContext](https://www.youtube.com/@Jerma985OutOfContext) | 694 | 9,450 | 2021 |
 | [@JermaAndFriends](https://www.youtube.com/@JermaAndFriends) | 13 | 150 | 2023 |
@@ -48,6 +49,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 | [@Kliquer4](https://www.youtube.com/@Kliquer4/) | 2 | 250 | 2023 |
 | [@limmcgrath7051](https://www.youtube.com/@liammcgrath7051) | 3 | 210 | 2023 |
 | [@Lucas19Santana98](https://www.youtube.com/@Lucas19Santana98) | 3 | 1,570 | 2016 |
+| [@massivedumper](https://www.youtube.com/@massivedumper/) | 53 | 2,090 | 2023 | 
 | [@nedgiddings9688](https://www.youtube.com/@nedgiddings9688) | 3 | 2,830 | 2022 |
 | [@nickelfront](https://www.youtube.com/@nickelfront/) | 8 | 380 | 2022 |
 | [@otherguy7435](https://www.youtube.com/@otherguy7435) | 6 | 700 | 2022 |
