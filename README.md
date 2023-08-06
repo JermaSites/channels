@@ -1,11 +1,35 @@
-## Jerma
+## What is this?
 
-## YouTube 
+This is a big dumb list of every Jerma fan channel, since there are literally hundreds, and it's impossible to keep track of them all!
 
-| Test | Abc | Test |
+Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's APIs, but for now... it is not. Oh well, enjoy, and [add any channels that aren't listed](https://github.com/JakeSteam/Jerma/)!
+
+## The List™️
+
+### YouTube
+
+#### Music
+
+| Channel | # Videos | Subscribers |
 | --- | --- | --- |
-| ABC | 123 | 2023-03-03 |
-| ABC | 124 | 2023-03-03 |
-| ABC | 125 | 2023-03-03 |
+|
 
-## Others
+#### Stream Highlights
+
+| Channel | # Videos | Subscribers |
+| --- | --- | --- |
+|
+
+#### Clips
+
+| Channel | # Videos | Subscribers |
+| --- | --- | --- |
+|
+
+#### Animations
+
+| Channel | # Videos | Subscribers |
+| --- | --- | --- |
+|
+
+### Others
