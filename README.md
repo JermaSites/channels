@@ -1,6 +1,6 @@
 ## The List™️
 
-This is a big dumb list of most Jerma fan channels, since there are literally hundreds, and it's impossible to keep track of them all!
+This is a big dumb list of most Jerma fan channels that have more than 1 video, since there are literally hundreds, and it's impossible to keep track of them all!
 
 Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's APIs, but for now... it is not. Oh well, enjoy, and [add any channels that aren't listed](https://github.com/JakeSteam/Jerma/) ✍️
 
