@@ -31,6 +31,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 | [@casparclips](https://www.youtube.com/@casperclips) | 7 | 320 | 2022 |
 | 🐶[@Cheltie](https://www.youtube.com/@Cheltie) | 310 | 65,300 | 2023 |
 | [@Daftgrass](https://www.youtube.com/@Daftgrass/) | 20 | 220 | 2022 |
+| [@elconno359](https://www.youtube.com/@elconno359) | 27 | 2,030 | 2023 |
 | [@ErasmusMagnusR](https://www.youtube.com/@ErasmusMagnusR) | 43 | 1,000 | 2022 | 
 | [@FerretNoir](https://www.youtube.com/@FerretNoir) | 24 | 3,540 | 2022 |
 | [@frogchomp3673](https://www.youtube.com/@frogchomp3673) | 6 | 210 | 2022 |
