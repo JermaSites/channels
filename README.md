@@ -1,12 +1,10 @@
-## What is this?
+## The List™️
 
 This is a big dumb list of most Jerma fan channels, since there are literally hundreds, and it's impossible to keep track of them all!
 
 Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's APIs, but for now... it is not. Oh well, enjoy, and [add any channels that aren't listed](https://github.com/JakeSteam/Jerma/) ✍️
 
 *PS: The best-of-the-best have a little Otto 🐶 next to them.*
-
-## The List™️
 
 ### YouTube
 
@@ -111,7 +109,6 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 * [Jerma's Big Adventure 2](https://store.steampowered.com/app/2227100/Jermas_Big_Adventure_2/)
 * [Jerma & Otto: The Curse of the Late Streamer](https://store.steampowered.com/app/1669490/Jerma__Otto_The_Curse_of_the_Late_Streamer/)
 * [JermaSlots](https://store.steampowered.com/app/1032520/JermaSlots/)
-
 
 ### Tools & More
 
