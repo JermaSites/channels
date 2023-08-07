@@ -33,6 +33,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 | [@casparclips](https://www.youtube.com/@casperclips) | 7 | 320 | 2022 |
 | 🐶[@Cheltie](https://www.youtube.com/@Cheltie) | 310 | 65,300 | 2023 |
 | [@Daftgrass](https://www.youtube.com/@Daftgrass/) | 20 | 220 | 2022 |
+| [@ErasmusMagnusR](https://www.youtube.com/@ErasmusMagnusR) | 43 | 1,000 | 2022 | 
 | [@FerretNoir](https://www.youtube.com/@FerretNoir) | 24 | 3,540 | 2022 |
 | [@frogchomp3673](https://www.youtube.com/@frogchomp3673) | 6 | 210 | 2022 |
 | [@golden_winged8736](https://www.youtube.com/@golden_winged8736/) | 12 | 18,600 | 2021 |
@@ -64,6 +65,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 | [@smurfkobain6830](https://www.youtube.com/@smurfkobain6830) | 14 | 2,430 | 2023 |
 | [@solharv7817](https://www.youtube.com/@solharv7817) | 5 | 60 | 2020 |
 | 🐶[@SuperDazza](https://www.youtube.com/@SuperDazza/) | 210 | 89,700 | 2023 |
+| [@TachReloaded](https://www.youtube.com/@TachReloaded) | 8 | 310 | 2022 |
 | [@TheJermaCollection](https://www.youtube.com/@TheJermaCollection) | 20 | 1,260 | 2023 |
 | [@thommy267](https://www.youtube.com/@thommy267/) | 3 | 260 | 2023 |
 | [@UncleDrew1](https://www.youtube.com/@UncleDrew1) | 55 | 18,100 | 2022 |
