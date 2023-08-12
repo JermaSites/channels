@@ -1,0 +1,20 @@
+name: Update YouTube stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  metadata-update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Send example query
+      run: |
+        curl \
+        'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
+        --header 'Accept: application/json' \
+        --compressed
+
+
+# Get list of channels
+# Process all
+# Output all
