@@ -7,7 +7,7 @@ jobs:
   metadata-update:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repo
+    - name: Checkout channel config file
       uses: actions/checkout@v3.5.3
       with: 
         sparse-checkout: |
@@ -19,6 +19,10 @@ jobs:
       run: echo '${{ env.CHANNEL_JSON }}'
     - name: Query YouTube API
       run: |
+        for group in fromJson(${{ env.CHANNEL_JSON }}); do
+          echo "${group}"
+          echo "${group.title}"
+        done
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
           --header 'Accept: application/json' \
           --compressed \
