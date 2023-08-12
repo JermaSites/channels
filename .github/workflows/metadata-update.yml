@@ -7,20 +7,17 @@ jobs:
   metadata-update:
     runs-on: ubuntu-latest
     steps:
-    - name: Query API
+    - name: Query YouTube API
       run: |
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
           --header 'Accept: application/json' \
           --compressed \
           -o output.json
-    - name: Shuffle JSON around
+    - name: Save JSON into env var
       run: echo "OUTPUT_JSON=$(jq -c . < output.json)" >> $GITHUB_ENV
+    - name: Save channel stats into env var
+      run: echo "CHANNEL_STATS=fromJson(env.OUTPUT_JSON).items[0]" >> $GITHUB_ENV
     - name: Output JSON for debug
-      run: echo '${{ fromJson(env.OUTPUT_JSON) }}'
-    - name: Output JSON for debug
-      run: echo '${{ fromJson(env.OUTPUT_JSON).items[0].statistics.subscriberCount }}'
-
-
-# Get list of channels
-# Process all
-# Output all
+      run: echo '${{ env.OUTPUT_JSON }}'
+    - name: Pull data out of JSON
+      run: echo '${{ env.OUTPUT_JSON.statistics.subscriberCount }}'
