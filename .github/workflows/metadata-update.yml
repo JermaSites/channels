@@ -9,6 +9,10 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3.5.3
+      with: 
+        sparse-checkout: |
+          config/channels.json
+        sparse-checkout-cone-mode: false
     - name: Get channel JSON
       run: echo "CHANNEL_JSON=$(jq -c . < /config/channels.json)" >> $GITHUB_ENV
     - name: Output JSON for debug
