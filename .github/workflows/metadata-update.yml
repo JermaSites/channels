@@ -13,13 +13,10 @@ jobs:
         sparse-checkout: |
           config/channels.json
         sparse-checkout-cone-mode: false
-    - name: Get channel JSON
-      run: echo "CHANNEL_JSON=$(jq -c . < ${{ github.workspace }}/config/channels.json)" >> $GITHUB_ENV
-    - name: Output JSON for debug
-      run: echo '${{ env.CHANNEL_JSON }}'
-    - name: Query YouTube API
+    - name: Parsing data
       run: |
-        for group in fromJson(${{ env.CHANNEL_JSON }}); do
+        FILE=$(jq . < ${{ github.workspace }}/config/channels.json)
+        for group in ${{ fromJson($FILE) }}; do
           echo "${group}"
           echo "${group.title}"
         done
