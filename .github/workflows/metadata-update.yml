@@ -19,7 +19,7 @@ jobs:
       run: echo '${{ env.OUTPUT_JSON }}'
     - name: Pull data out of JSON
       run: |
-        echo "This channel has
+        echo 'This channel has'
         echo '${{ env.OUTPUT_JSON.items[0].statistics.subscriberCount }} subscribers, '
         echo '${{ env.OUTPUT_JSON.items[0].statistics.videoCount }} videos, and'
         echo '${{ env.OUTPUT_JSON.items[0].statistics.viewCount }} video views.'
