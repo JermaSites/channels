@@ -7,6 +7,12 @@ jobs:
   metadata-update:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2.3.4
+    - name: Get channel JSON
+      run: echo "CHANNEL_JSON=$(jq -c . < config\channels.json)" >> $GITHUB_ENV
+    - name: Output JSON for debug
+      run: echo '${{ env.CHANNEL_JSON }}'
     - name: Query YouTube API
       run: |
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
