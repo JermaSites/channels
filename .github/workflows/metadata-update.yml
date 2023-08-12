@@ -11,7 +11,7 @@ jobs:
       run: |
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
           --header 'Accept: application/json' \
-          --compressed
+          --compressed \
           -o output.json
     - name: Shuffle JSON around
       run: echo "OUTPUT_JSON=$(jq -c . < output.json)" >> $GITHUB_ENV
