@@ -23,8 +23,8 @@ jobs:
         OUTPUT=""
         while read line; do
           if [[ $line == $HEADER_PREFIX* ]]; then
-            OUTPUT="$OUTPUT\n\n$line\n"
-            OUTPUT="$OUTPUT| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
+            OUTPUT="$OUTPUT<br><br>$line<br>"
+            OUTPUT="$OUTPUT| Channel | # Videos | Subscribers | Views |<br>| --- | --- | --- | --- |<br>"
           else
             curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=$line&key=${{ secrets.API_KEY }}" \
               --header 'Accept: application/json' \
@@ -35,7 +35,7 @@ jobs:
             VIDEO_COUNT=$(jq -r '.items[0].statistics.videoCount' output.json)
             SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json)
             VIEW_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json)
-            OUTPUT="$OUTPUT| [$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
+            OUTPUT="$OUTPUT| [$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |<br>"
           fi
         done < ${{ github.workspace }}/automation/channels.txt
         echo "$OUTPUT" > temp.md
