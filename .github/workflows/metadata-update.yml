@@ -22,7 +22,7 @@ jobs:
           else
             echo "Text read from file: $line"
           fi
-        done < ${{ github.workspace }}/config/channels.txt
+        done < ${{ github.workspace }}/automation/channels.txt
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
           --header 'Accept: application/json' \
           --compressed \
