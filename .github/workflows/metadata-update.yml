@@ -15,20 +15,23 @@ jobs:
         sparse-checkout-cone-mode: false
     - name: Updating data
       run: |
-        headerPrefix="#### "
+        HEADER_PREFIX="#### "
+        OUTPUT=""
         while read line; do
-          if [[ $line == $headerPrefix* ]]; then
-            echo "\n\n$line\n"
-            echo "| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
+          if [[ $line == $HEADER_PREFIX* ]]; then
+            OUTPUT="$OUTPUT\n\n$line\n"
+            OUTPUT="$OUTPUT| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
-            curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics&id=$line&key=${{ secrets.API_KEY }}" \
+            curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=$line&key=${{ secrets.API_KEY }}" \
               --header 'Accept: application/json' \
               --compressed \
               -o output.json
-            cat output.json
+            TITLE=$(jq -r '.items[0].snippet.title' output.json)
+            URL=$(jq -r '.items[0].snippet.customUrl' output.json)
             VIDEO_COUNT=$(jq -r '.items[0].statistics.videoCount' output.json)
             SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json)
-            VIDEO_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json)
-            echo "| $line | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
+            VIEW_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json)
+            OUTPUT="$OUTPUT| [$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
           fi
         done < ${{ github.workspace }}/automation/channels.txt
+        echo "$OUTPUT"
