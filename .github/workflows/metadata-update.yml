@@ -21,11 +21,14 @@ jobs:
             echo "\n\n$line\n"
             echo "| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
-            curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
+            curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=$line&key=${{ secrets.API_KEY }}" \
               --header 'Accept: application/json' \
               --compressed \
               -o output.json
-            EXAMPLE=$(jq -r '.items[0].statistics.subscriberCount' output.json)
-            echo "Debug: $EXAMPLE"
-            fi
+            cat output.json
+            VIDEO_COUNT=$(jq -r '.items[0].statistics.videoCount' output.json)
+            SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json)
+            VIDEO_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json)
+            echo "| $line | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
+          fi
         done < ${{ github.workspace }}/automation/channels.txt
