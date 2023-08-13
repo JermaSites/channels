@@ -42,7 +42,7 @@ jobs:
 
         templ=$(<${{ github.workspace }}/automation/template.md)
         value=$(<${{ github.workspace }}/temp.md)
-        echo "${templ//dynamic-channel-data/$value}" > ${{ github.workspace }}/README.md
+        echo -e "${templ//dynamic-channel-data/$value}" > ${{ github.workspace }}/README.md
         cat ${{ github.workspace }}/README.md
     - name: Save changes
       uses: stefanzweifel/git-auto-commit-action@v4
