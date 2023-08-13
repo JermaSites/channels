@@ -36,6 +36,9 @@ jobs:
             OUTPUT="$OUTPUT| [$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
           fi
         done < ${{ github.workspace }}/automation/channels.txt
-        echo "$OUTPUT"
-        sed -i "s~dynamic-channel-data~$OUTPUT~" "${{ github.workspace }}/automation/template.md"
-        cat ${{ github.workspace }}/automation/template.md
+        echo "$OUTPUT" > temp.md
+
+        templ=$(<${{ github.workspace }}/automation/template.md)
+        value=$(<${{ github.workspace }}/temp.md)
+        echo "${templ//dynamic-channel-data/$value}" > ${{ github.workspace }}/README.md
+        cat ${{ github.workspace }}/README.md
