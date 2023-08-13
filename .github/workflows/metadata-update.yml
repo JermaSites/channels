@@ -16,17 +16,14 @@ jobs:
     - name: Updating data
       run: |
         headerPrefix="header:"
-        echo "About to start"
         while read line; do
-          if [[ $line == header:* ]]; then
-            echo "$line" | sed 's/header:/####'
+          if [[ $line == $headerPrefix* ]]; then
+            echo "Header: $line"
           else
-            echo "About to try $line"
-            OUTPUT_JSON=$(curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
+            echo "Text read from file: $line"
+            OUTPUT=$(curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
               --header 'Accept: application/json' \
               --compressed)
-            echo OUTPUT_JSON
-            # echo "OUTPUT_JSON=$OUTPUT_JSON" >> $GITHUB_ENV
-            # echo "$line has ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.subscriberCount }} subscribers, ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.videoCount }} videos, and ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.viewCount }} video views."
+            echo "Output: $OUTPUT"
           fi
         done < ${{ github.workspace }}/automation/channels.txt
