@@ -16,7 +16,7 @@ jobs:
     - name: Parsing data
       run: |
         FILE=$(jq . < ${{ github.workspace }}/config/channels.json)
-        for group in ${{ fromJson($FILE) }}; do
+        for group in ${{ fromJson(FILE) }}; do
           echo "${group}"
           echo "${group.title}"
         done
