@@ -8,7 +8,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 
 ### YouTube
 
-\n\n#### Jerma\n| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n| [Jerma985](https://youtube.com/@jerma985) | 712 | 921000 | 228809135 |\n| [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750000 | 275041548 |\n\n\n#### Highlights / Clips / Compilations\n| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 597 | 1069996 |\n| [arson](https://youtube.com/@arsonclips) | 247 | 16900 | 25764548 |\n| [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3730 | 7378986 |\n| [casper](https://youtube.com/@casperclips) | 7 | 318 | 88698 |\n
+<br><br>#### Jerma<br>| Channel | # Videos | Subscribers | Views |<br>| --- | --- | --- | --- |<br>| [Jerma985](https://youtube.com/@jerma985) | 712 | 921000 | 228809135 |<br>| [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750000 | 275041548 |<br><br><br>#### Highlights / Clips / Compilations<br>| Channel | # Videos | Subscribers | Views |<br>| --- | --- | --- | --- |<br>| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 597 | 1069996 |<br>| [arson](https://youtube.com/@arsonclips) | 247 | 16900 | 25764548 |<br>| [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3730 | 7378986 |<br>| [casper](https://youtube.com/@casperclips) | 7 | 318 | 88698 |<br>
 
 #### Standalone Videos / Playlists
 
