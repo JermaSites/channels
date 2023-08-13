@@ -15,15 +15,17 @@ jobs:
         sparse-checkout-cone-mode: false
     - name: Updating data
       run: |
-        headerPrefix="header:"
+        headerPrefix="#### "
         while read line; do
           if [[ $line == $headerPrefix* ]]; then
-            echo "Header: $line"
+            echo "\n\n$line\n"
+            echo "| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
             echo "Text read from file: $line"
             OUTPUT=$(curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
               --header 'Accept: application/json' \
               --compressed)
-            echo "Output: $OUTPUT"
+            echo "OUTPUT_JSON=$OUTPUT" >> $GITHUB_ENV
+            echo "| $line | ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.videoCount }} | ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.subscriberCount }} | ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.viewCount }} |\n"
           fi
         done < ${{ github.workspace }}/automation/channels.txt
