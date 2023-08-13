@@ -13,27 +13,16 @@ jobs:
         sparse-checkout: |
           automation/channels.txt
         sparse-checkout-cone-mode: false
-    - name: Parsing data
+    - name: Updating data
       run: |
         headerPrefix="header:"
         while read line; do
           if [[ $line == $headerPrefix* ]]; then
-            echo "Header line: $line"
+            echo "$line" | sed 's/header:/####'
           else
-            echo "Text read from file: $line"
+            OUTPUT_JSON=curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
+              --header 'Accept: application/json' \
+              --compressed >> $GITHUB_ENV
+            echo "$line has ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.subscriberCount }} subscribers, ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.videoCount }} videos, and ${{ fromJson(env.OUTPUT_JSON).items[0].statistics.viewCount }} video views."
           fi
         done < ${{ github.workspace }}/automation/channels.txt
-        curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
-          --header 'Accept: application/json' \
-          --compressed \
-          -o output.json
-    - name: Save JSON into env var
-      run: echo "OUTPUT_JSON=$(jq -c . < output.json)" >> $GITHUB_ENV
-    - name: Output JSON for debug
-      run: echo '${{ env.OUTPUT_JSON }}'
-    - name: Pull data out of JSON
-      run: |
-        echo "This channel has "
-        echo "${{ fromJson(env.OUTPUT_JSON).items[0].statistics.subscriberCount }} subscribers, "
-        echo "${{ fromJson(env.OUTPUT_JSON).items[0].statistics.videoCount }} videos, and "
-        echo "${{ fromJson(env.OUTPUT_JSON).items[0].statistics.viewCount }} video views."
