@@ -11,15 +11,14 @@ jobs:
       uses: actions/checkout@v3.5.3
       with: 
         sparse-checkout: |
-          config/channels.json
+          config/channels.txt
         sparse-checkout-cone-mode: false
     - name: Parsing data
       run: |
-        FILE=$(jq . < ${{ github.workspace }}/config/channels.json)
-        for group in ${{ fromJson(FILE) }}; do
-          echo "${group}"
-          echo "${group.title}"
-        done
+        FILE=$(jq . < ${{ github.workspace }}/config/channels.txt)
+        while IFS= read -r line; do
+          echo "Text read from file: $line"
+        done < ${{ github.workspace }}/config/channels.txt
         curl 'https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Jerma985&key=${{ secrets.API_KEY }}' \
           --header 'Accept: application/json' \
           --compressed \
