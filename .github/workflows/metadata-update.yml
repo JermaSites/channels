@@ -12,6 +12,8 @@ jobs:
       with: 
         sparse-checkout: |
           automation/channels.txt
+          automation/template.md
+          README.md
         sparse-checkout-cone-mode: false
     - name: Updating data
       run: |
@@ -35,3 +37,5 @@ jobs:
           fi
         done < ${{ github.workspace }}/automation/channels.txt
         echo "$OUTPUT"
+        sed -i "s~dynamic-channel-data~$OUTPUT~" "${{ github.workspace }}/automation/template.md"
+        cat ${{ github.workspace }}/automation/template.md
