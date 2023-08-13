@@ -21,7 +21,7 @@ jobs:
             echo "\n\n$line\n"
             echo "| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
-            curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics&forUsername=$line&key=${{ secrets.API_KEY }}" \
+            curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics&id=$line&key=${{ secrets.API_KEY }}" \
               --header 'Accept: application/json' \
               --compressed \
               -o output.json
