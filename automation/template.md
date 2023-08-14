@@ -7,9 +7,7 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 *PS: The best-of-the-best have a little Otto 🐶 next to them.*
 
 ### YouTube
-
 dynamic-channel-data
-
 #### Standalone Videos / Playlists
 
 | Title | Length | Views | Uploaded |
