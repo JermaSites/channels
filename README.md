@@ -8,21 +8,19 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 
 ### YouTube
 
-
 #### Jerma
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
-| [Jerma985](https://youtube.com/@jerma985) | 712 | 921000 | 228840998 |
-| [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750000 | 275156894 |
-
+| [Jerma985](https://youtube.com/@jerma985) | 712 | 921 | 228840998 |
+| [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750 | 275156894 |
 
 #### Highlights / Clips / Compilations
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
-| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 598 | 1072258 |
-| [arson](https://youtube.com/@arsonclips) | 247 | 16900 | 25780075 |
-| [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3730 | 7381220 |
-| [casper](https://youtube.com/@casperclips) | 7 | 318 | 88701 |
+| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 1 | 1072258 |
+| [arson](https://youtube.com/@arsonclips) | 247 | 17 | 25780075 |
+| [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 4 | 7381220 |
+| [casper](https://youtube.com/@casperclips) | 7 | 1 | 88701 |
 
 #### Standalone Videos / Playlists
 
