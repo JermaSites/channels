@@ -10,12 +10,10 @@ Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's AP
 dynamic-channel-data
 #### Standalone Videos / Playlists
 
-| Title | Length | Views | Uploaded |
-| --- | --- | --- | --- |
-| [Jerma985 Deleted Videos Playlist](https://www.youtube.com/playlist?list=PL9haG0G7kUOiKVQ-Iw7LO7fgQUG3xx2L9) - @randomthings2802 | 47 Videos | | |
-| [Jerma985 - The ANTI-Streamer](https://www.youtube.com/watch?v=v80fUUqmOgE) - @IC2yt | 10:17 | 1,200,000 | 2020 |
-| [Jerma985: The Willy Wonka of Twitch](https://www.youtube.com/watch?v=yfUs1H4WptI) - @PedroInfinito | 26:29 | 161,000 | 2020 |
-| [The Greatest Streamer of All Time](https://www.youtube.com/watch?v=LLb0lwvM6mE) - @RubySquigglehead | 38:42 | 160,000 | 2023 |
+* [Jerma985 Deleted Videos Playlist](https://www.youtube.com/playlist?list=PL9haG0G7kUOiKVQ-Iw7LO7fgQUG3xx2L9) - @randomthings2802 (47 Videos)
+* [Jerma985 - The ANTI-Streamer](https://www.youtube.com/watch?v=v80fUUqmOgE) - @IC2yt (10m 17s)
+* [Jerma985: The Willy Wonka of Twitch](https://www.youtube.com/watch?v=yfUs1H4WptI) - @PedroInfinito (26m 29s)
+* [The Greatest Streamer of All Time](https://www.youtube.com/watch?v=LLb0lwvM6mE) - @RubySquigglehead (38m 42s)
 
 ### Games
 
