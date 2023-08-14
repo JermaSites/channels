@@ -1,8 +1,8 @@
 ## The List™️
 
-This is a big dumb list of most Jerma fan channels that have more than 1 video, since there are literally hundreds, and it's impossible to keep track of them all!
+The List™️ contains most Jerma fan channels that have more than 1 video, to help people keep track of them all!
 
-Maybe one day it'll be a bit-less-dumb and automatically update via YouTube's APIs, but for now... it is not. Oh well, enjoy, and [add any channels that aren't listed](https://github.com/JakeSteam/Jerma/) ✍️
+The list updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)).
 
 *PS: The best-of-the-best have a little Otto 🐶 next to them.*
 
@@ -28,3 +28,15 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 
 * [Jerma.org](https://www.jerma.org/): Links to various Jerma-related online things (games, wiki, utilities, social media)
 * [Jerma.io](https://jerma.io): A ton of Jerma-y utilities (e.g. quizzes / AI chats / soundboards / chat logs)
+
+## How it works
+
+### Updating
+
+This list updates once per day with the latest stats for each channel. Full details will be available in a soon-to-be-published article.
+
+### Adding channel
+
+To add a channel, edit []`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
+* Channel ID is available at `About` -> `Share` -> `Copy channel ID`
+* Channel name is not used, except to make the file more readable.
