@@ -9,12 +9,14 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 ### YouTube
 
 #### Jerma
+
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | [Jerma985](https://youtube.com/@jerma985) | 712 | 921K | 229M |
 | [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750K | 276M |
 
 #### Stream Archives
+
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 770 | 273K | 88M |
@@ -24,6 +26,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Old Jerma Stream Archive [with Chat]](https://youtube.com/@oldjermastreamarchivewithc4062) | 236 | 4K | 2M |
 
 #### Highlights / Clips / Compilations
+
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 1K | 2M |
@@ -60,7 +63,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 1K | 1M |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 1K | 1M |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 2K | 2M |
-| [Skrump](https://youtube.com/@skrumped) | 8 | 4K | 2M |
+| [Skrump](https://youtube.com/@skrumped) | 1 | 4K | 2M |
 | 🐶[Skye4](https://youtube.com/@skye4) | 155 | 33K | 15M |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 3K | 3M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 7 | 1K | 1M |
@@ -74,6 +77,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [daisy](https://youtube.com/@yenadaisy) | 9 | 1K | 1M |
 
 #### Animations / Green Screen / Music
+
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | [arc illustrations](https://youtube.com/@arcillustrations3238) | 9 | 5K | 2M |
@@ -122,6 +126,6 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit []`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
 * Channel ID is available at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
