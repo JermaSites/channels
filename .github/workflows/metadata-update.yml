@@ -24,7 +24,7 @@ jobs:
         while read line; do
           if [[ $line == $HEADER_PREFIX* ]]; then
             echo "Adding header $line"
-            OUTPUT="$OUTPUT\n$line\n"
+            OUTPUT="$OUTPUT\n$line\n\n"
             OUTPUT="$OUTPUT| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
             ARRAY_LINE=(${line//;/ })
@@ -44,10 +44,9 @@ jobs:
         done < ${{ github.workspace }}/automation/channels.txt
         echo "$OUTPUT" > temp.md
 
-        templ=$(<${{ github.workspace }}/automation/template.md)
-        value=$(<${{ github.workspace }}/temp.md)
-        echo -e "${templ//dynamic-channel-data/$value}" > ${{ github.workspace }}/README.md
-        cat ${{ github.workspace }}/README.md
+        TEMPLATE=$(<${{ github.workspace }}/automation/template.md)
+        DYNAMIC-CONTENT=$(<${{ github.workspace }}/temp.md)
+        echo -e "${TEMPLATE//dynamic-channel-data/$DYNAMIC-CONTENT}" > ${{ github.workspace }}/README.md
     - name: Save changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
