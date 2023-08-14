@@ -37,6 +37,6 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit []`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
 * Channel ID is available at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
