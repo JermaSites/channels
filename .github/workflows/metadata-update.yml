@@ -24,7 +24,7 @@ jobs:
         while read line; do
           if [[ $line == $HEADER_PREFIX* ]]; then
             echo "Adding header $line"
-            OUTPUT="$OUTPUT\n\n$line\n"
+            OUTPUT="$OUTPUT\n$line\n"
             OUTPUT="$OUTPUT| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
           else
             ARRAY_LINE=(${line//;/ })
@@ -32,11 +32,12 @@ jobs:
             curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${ARRAY_LINE[0]}&key=${{ secrets.API_KEY }}" \
               --header 'Accept: application/json' \
               --compressed \
+              --silent \
               -o output.json
             TITLE=$(jq -r '.items[0].snippet.title' output.json)
             URL=$(jq -r '.items[0].snippet.customUrl' output.json)
             VIDEO_COUNT=$(jq -r '.items[0].statistics.videoCount' output.json)
-            SUBSCRIBER_COUNT=$(jq -r '.items[0].statistics.subscriberCount' output.json)
+            SUBSCRIBER_COUNT=$((($(jq -r '.items[0].statistics.subscriberCount' output.json)+999)/1000))
             VIEW_COUNT=$(jq -r '.items[0].statistics.viewCount' output.json)
             OUTPUT="$OUTPUT| ${ARRAY_LINE[2]}[$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | $SUBSCRIBER_COUNT | $VIEW_COUNT |\n"
           fi
