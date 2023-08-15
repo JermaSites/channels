@@ -8,7 +8,7 @@ while read line; do
     else
     ARRAY_LINE=(${line//;/ })
     echo "Adding channel ${ARRAY_LINE[1]}"
-    curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${ARRAY_LINE[0]}&key=${{ secrets.API_KEY }}" \
+    curl "https://youtube.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=${ARRAY_LINE[0]}&key=$API_KEY" \
         --header 'Accept: application/json' \
         --silent \
         -o output.json
@@ -22,10 +22,10 @@ while read line; do
     echo "$TITLE: $VIDEO_COUNT videos (${VIEW_COUNT}M views)"
     OUTPUT="$OUTPUT| ${ARRAY_LINE[2]}[$TITLE](https://youtube.com/$URL) | $VIDEO_COUNT | ${SUBSCRIBER_COUNT}K | ${VIEW_COUNT}M |\n"
     fi
-done < ${{ github.workspace }}/automation/channels.txt
+done < $WORKSPACE/automation/channels.txt
 
 echo "$OUTPUT" > temp.md
-templ=$(<${{ github.workspace }}/automation/template.md)
-value=$(<${{ github.workspace }}/temp.md)
-echo -e "${templ//dynamic-channel-data/$value}" > ${{ github.workspace }}/README.md
-cat ${{ github.workspace }}/README.md
+templ=$(<$WORKSPACE/automation/template.md)
+value=$(<$WORKSPACE/temp.md)
+echo -e "${templ//dynamic-channel-data/$value}" > $WORKSPACE/README.md
+cat $WORKSPACE/README.md
