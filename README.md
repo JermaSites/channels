@@ -12,7 +12,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
-| [Jerma985](https://youtube.com/@jerma985) | 712 | 921K | 229M |
+| [Jerma985](https://youtube.com/@jerma985) | 712 | 922K | 229M |
 | [2ndJerma](https://youtube.com/@2ndjerma) | 989 | 750K | 276M |
 
 #### Stream Archives
@@ -38,19 +38,19 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [El Conno](https://youtube.com/@elconno359) | 27 | 2.1K | 5.6M |
 | [Erasmus Magnus](https://youtube.com/@erasmusmagnusr) | 43 | 1.1K | 1.3M |
 | [FerretNoir](https://youtube.com/@ferretnoir) | 24 | 3.6K | 4.3M |
-| [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 215 | 159K |
+| [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 214 | 159K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
-| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 263 | 433K |
+| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 264 | 433K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.2M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
 | [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 148 | 60K |
 | [Jerma Clips](https://youtube.com/@jermaclips) | 406 | 41K | 36M |
 | [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.5K | 79K | 130M |
-| [Jermoments](https://youtube.com/@jermoments) | 317 | 15K | 12M |
+| [Jermoments](https://youtube.com/@jermoments) | 318 | 15K | 12M |
 | [John Crops](https://youtube.com/@johncrops) | 13 | 12K | 6.3M |
 | [kimisanerd](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.2M |
-| [Kliquer4](https://youtube.com/@kliquer4) | 46 | 274 | 380K |
+| [Kliquer4](https://youtube.com/@kliquer4) | 46 | 276 | 380K |
 | [liam](https://youtube.com/@liammcgrath7051) | 5 | 211 | 348K |
 | [Lucas Santana](https://youtube.com/@lucas19santana98) | 38 | 1.6K | 1.8M |
 | [dumptruck](https://youtube.com/@massivedumper) | 54 | 2.2K | 1.9M |
@@ -63,7 +63,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 269 | 312K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 301 | 532K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
-| [Skrump](https://youtube.com/@skrumped) | 1 | 3.8K | 49K |
+| [Skrump](https://youtube.com/@skrumped) | 1 | 3.9K | 49K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 155 | 33K | 15M |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.5K | 2.8M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 7 | 56 | 136K |
@@ -82,7 +82,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | --- | --- | --- | --- |
 | [arc illustrations](https://youtube.com/@arcillustrations3238) | 9 | 4.3K | 1.2M |
 | [cake](https://youtube.com/@cake3220) | 10 | 233 | 508K |
-| 🐶[Corax](https://youtube.com/@corax) | 25 | 252K | 31M |
+| 🐶[Corax](https://youtube.com/@corax) | 25 | 253K | 31M |
 | 🐶[japanesecoffee](https://youtube.com/@japanesecoffeemusic) | 169 | 4.4K | 1.9M |
 | [jermaDab](https://youtube.com/@jermadab) | 15 | 2.7K | 1.3M |
 | [RatshitCrazy](https://youtube.com/@kengaruz) | 57 | 489 | 553K |
@@ -94,7 +94,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 7 | 640 | 83K |
 | [Slime Time](https://youtube.com/@slimetime792) | 11 | 285 | 86K |
 | [super otto pets](https://youtube.com/@superottopets) | 6 | 340 | 1.1M |
-| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.4K | 5.8M |
+| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.3K | 5.8M |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 402 | 1.4M |
 
 #### Standalone Videos / Playlists
