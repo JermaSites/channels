@@ -2,7 +2,7 @@
 
 The List™️ contains most Jerma fan channels that have more than 1 video, to help people keep track of them all!
 
-The list updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)).
+The list updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
 
 *PS: The best-of-the-best have a little Otto 🐶 next to them.*
 
@@ -41,10 +41,10 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 214 | 160K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
-| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 268 | 445K |
+| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 269 | 445K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.2M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
-| [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 148 | 60K |
+| [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 149 | 60K |
 | [Jerma Clips](https://youtube.com/@jermaclips) | 406 | 41K | 36M |
 | [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.5K | 79K | 131M |
 | [Jermoments](https://youtube.com/@jermoments) | 319 | 15K | 12M |
@@ -53,24 +53,24 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Archive](https://youtube.com/@archival077) | 0 | 277 | 0 |
 | [liam](https://youtube.com/@liammcgrath7051) | 5 | 212 | 350K |
 | [Lucas Santana](https://youtube.com/@lucas19santana98) | 38 | 1.6K | 1.8M |
-| [dumptruck](https://youtube.com/@massivedumper) | 54 | 2.2K | 1.9M |
+| [dumptruck](https://youtube.com/@massivedumper) | 54 | 2.3K | 1.9M |
 | [Ned Giddings](https://youtube.com/@nedgiddings9688) | 9 | 2.9K | 4.3M |
 | [nickelfront](https://youtube.com/@nickelfront) | 8 | 379 | 456K |
 | [jermaguy](https://youtube.com/@otherguy7435) | 6 | 704 | 430K |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 8 | 6.9K | 5.8M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 34 | 18K | 11M |
 | [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 443 | 773K |
-| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 272 | 318K |
+| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 273 | 318K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 303 | 541K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
-| [Skrump](https://youtube.com/@skrumped) | 1 | 4.3K | 73K |
+| [Skrump](https://youtube.com/@skrumped) | 1 | 4.4K | 73K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 156 | 33K | 15M |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.5K | 2.8M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 8 | 55 | 137K |
 | 🐶[SuperDazza - Best of Jerma](https://youtube.com/@superdazza) | 211 | 91K | 36M |
 | [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 319 | 802K |
 | [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 13K |
-| [thommy](https://youtube.com/@thommy267) | 16 | 273 | 274K |
+| [thommy](https://youtube.com/@thommy267) | 16 | 275 | 274K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
 | [whebshow](https://youtube.com/@whebshow6610) | 39 | 536 | 750K |
 | [HipsterianArchive](https://youtube.com/@wolflowmusic) | 59 | 87 | 154K |
@@ -122,7 +122,7 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 
 ### Updating
 
-This list updates once per day with the latest stats for each channel. Full details will be available in a soon-to-be-published article.
+This list updates once per day with the latest stats for each channel. Full details [are available here](https://blog.jakelee.co.uk/fetching-youtube-metadata-in-github-actions-and-persisting/).
 
 ### Adding channel
 
