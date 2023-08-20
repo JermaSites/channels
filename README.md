@@ -80,6 +80,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
+| [Adyot R](https://youtube.com/@aydeer) | 29 | 2.3K | 376K |
 | [arc illustrations](https://youtube.com/@arcillustrations3238) | 9 | 4.3K | 1.2M |
 | [cake](https://youtube.com/@cake3220) | 10 | 233 | 508K |
 | 🐶[Corax](https://youtube.com/@corax) | 25 | 254K | 32M |
@@ -95,8 +96,8 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Slime Time](https://youtube.com/@slimetime792) | 11 | 285 | 86K |
 | [super otto pets](https://youtube.com/@superottopets) | 6 | 340 | 1.1M |
 | [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.3K | 5.8M |
-| [Y_A](https://youtube.com/@ykobi) | 23 | 401 | 1.4M |
 | [Xethl](https://youtube.com/@xethl) | 15 | 205 | 465K |
+| [Y_A](https://youtube.com/@ykobi) | 23 | 401 | 1.4M |
 
 #### Standalone Videos / Playlists
 
