@@ -14,6 +14,7 @@ dynamic-channel-data
 * [Jerma985 - The ANTI-Streamer](https://www.youtube.com/watch?v=v80fUUqmOgE) - @IC2yt (10m 17s)
 * [Jerma985: The Willy Wonka of Twitch](https://www.youtube.com/watch?v=yfUs1H4WptI) - @PedroInfinito (26m 29s)
 * [The Greatest Streamer of All Time](https://www.youtube.com/watch?v=LLb0lwvM6mE) - @RubySquigglehead (38m 42s)
+* [Subtitled Videos](https://www.youtube.com/playlist?list=PLCK_Hwh3LTgFGDDmVaQTx6mcFE3s0s8nI) & [Subtitled Streams](https://www.youtube.com/playlist?list=PLCK_Hwh3LTgFYX7ZOuZava1s4kKoYdFUm) - @ErasmusMagnusR
 
 ### Games
 
