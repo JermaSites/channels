@@ -19,7 +19,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
-| 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 770 | 275K | 89M |
+| 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 771 | 275K | 89M |
 | [Ster/Jerma Stream Archive](https://youtube.com/@sterjermastreamarchive) | 972 | 47K | 20M |
 | [starkiller201096x](https://youtube.com/@starkiller201096x) | 79 | 2.9K | 1.5M |
 | [Jerma Stream Archive [With Chat]](https://youtube.com/@jermastreamarchivewithchat) | 303 | 11K | 4.7M |
@@ -41,7 +41,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 214 | 160K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
-| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 272 | 453K |
+| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 274 | 453K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.2M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
 | [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 149 | 60K |
@@ -68,7 +68,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.5K | 2.8M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 8 | 55 | 137K |
 | 🐶[SuperDazza - Best of Jerma](https://youtube.com/@superdazza) | 211 | 92K | 37M |
-| [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 320 | 803K |
+| [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 319 | 803K |
 | [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 13K |
 | [thommy](https://youtube.com/@thommy267) | 16 | 276 | 277K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
@@ -105,6 +105,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 * [Jerma985 - The ANTI-Streamer](https://www.youtube.com/watch?v=v80fUUqmOgE) - @IC2yt (10m 17s)
 * [Jerma985: The Willy Wonka of Twitch](https://www.youtube.com/watch?v=yfUs1H4WptI) - @PedroInfinito (26m 29s)
 * [The Greatest Streamer of All Time](https://www.youtube.com/watch?v=LLb0lwvM6mE) - @RubySquigglehead (38m 42s)
+* [Subtitled Videos](https://www.youtube.com/playlist?list=PLCK_Hwh3LTgFGDDmVaQTx6mcFE3s0s8nI) & [Subtitled Streams](https://www.youtube.com/playlist?list=PLCK_Hwh3LTgFYX7ZOuZava1s4kKoYdFUm) - @ErasmusMagnusR
 
 ### Games
 
