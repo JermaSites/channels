@@ -30,7 +30,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
 | [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 606 | 1.1M |
-| [arson](https://youtube.com/@arsonclips) | 248 | 17K | 26M |
+| [arson](https://youtube.com/@arsonclips) | 248 | 18K | 26M |
 | [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3.8K | 7.4M |
 | [casper](https://youtube.com/@casperclips) | 7 | 318 | 89K |
 | 🐶[Cheltie](https://youtube.com/@cheltie) | 312 | 66K | 27M |
@@ -38,7 +38,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [El Conno](https://youtube.com/@elconno359) | 27 | 2.1K | 5.6M |
 | [Erasmus Magnus](https://youtube.com/@erasmusmagnusr) | 43 | 1.1K | 1.3M |
 | [FerretNoir](https://youtube.com/@ferretnoir) | 24 | 3.6K | 4.3M |
-| [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 214 | 160K |
+| [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 215 | 160K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
 | [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 281 | 460K |
@@ -58,8 +58,8 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [jermaguy](https://youtube.com/@otherguy7435) | 6 | 704 | 430K |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 8 | 6.9K | 5.8M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 34 | 18K | 11M |
-| [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 443 | 774K |
-| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 277 | 323K |
+| [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 442 | 774K |
+| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 278 | 323K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 307 | 549K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
 | [Skrump](https://youtube.com/@skrumped) | 1 | 4.7K | 99K |
@@ -72,7 +72,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [thommy](https://youtube.com/@thommy267) | 16 | 277 | 279K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
 | [whebshow](https://youtube.com/@whebshow6610) | 39 | 536 | 752K |
-| [HipsterianArchive](https://youtube.com/@wolflowmusic) | 59 | 88 | 156K |
+| [HipsterianArchive](https://youtube.com/@wolflowmusic) | 59 | 89 | 156K |
 | [daisy](https://youtube.com/@yenadaisy) | 9 | 514 | 58K |
 
 #### Animations / Green Screen / Music
@@ -89,13 +89,13 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Mason Jamez](https://youtube.com/@masonjamez) | 28 | 34K | 15M |
 | 🐶[August](https://youtube.com/@miiyooh) | 21 | 1.2K | 602K |
 | [Mjfreddyboy](https://youtube.com/@mjfreddyboy2976) | 34 | 48 | 33K |
-| [Red Paint Spray](https://youtube.com/@redpaintspray) | 38 | 67 | 17K |
+| [Red Paint Spray](https://youtube.com/@redpaintspray) | 38 | 66 | 17K |
 | [shoegreaser](https://youtube.com/@shoegreaser) | 11 | 1.9K | 1.1M |
 | [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 7 | 640 | 83K |
 | [Slime Time](https://youtube.com/@slimetime792) | 11 | 284 | 86K |
 | [super otto pets](https://youtube.com/@superottopets) | 6 | 340 | 1.1M |
-| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.3K | 5.8M |
-| [Xethl](https://youtube.com/@xethl) | 16 | 202 | 469K |
+| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.4K | 5.8M |
+| [Xethl](https://youtube.com/@xethl) | 17 | 202 | 469K |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 403 | 1.4M |
 
 #### Standalone Videos / Playlists
