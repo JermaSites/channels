@@ -28,7 +28,7 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 ### Tools & More
 
 * [Jerma.org](https://www.jerma.org/): Links to various Jerma-related online things (games, wiki, utilities, social media)
-* [Jerma.io](https://jerma.io): A ton of Jerma-y utilities (e.g. quizzes / AI chats / soundboards / chat logs)
+* [Jerma.io](https://jerma.io): A ton of Jerma-y utilities (e.g. this list / quizzes / AI chats / soundboards / chat logs)
 
 ## How it works
 
@@ -38,6 +38,6 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
