@@ -41,7 +41,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 216 | 161K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
-| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 282 | 460K |
+| [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 282 | 463K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.2M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
 | [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 149 | 60K |
@@ -68,7 +68,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Sol Harv](https://youtube.com/@solharv7817) | 7 | 55 | 136K |
 | 🐶[SuperDazza - Best of Jerma](https://youtube.com/@superdazza) | 211 | 92K | 37M |
 | [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 319 | 804K |
-| [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 13K |
+| [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 14K |
 | [thommy](https://youtube.com/@thommy267) | 16 | 277 | 281K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
 | [whebshow](https://youtube.com/@whebshow6610) | 39 | 536 | 752K |
@@ -118,7 +118,7 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 ### Tools & More
 
 * [Jerma.org](https://www.jerma.org/): Links to various Jerma-related online things (games, wiki, utilities, social media)
-* [Jerma.io](https://jerma.io): A ton of Jerma-y utilities (e.g. quizzes / AI chats / soundboards / chat logs)
+* [Jerma.io](https://jerma.io): A ton of Jerma-y utilities (e.g. this list / quizzes / AI chats / soundboards / chat logs)
 
 ## How it works
 
@@ -128,6 +128,6 @@ This list updates once per day with the latest stats for each channel. Full deta
 
 ### Adding channel
 
-To add a channel, edit [`channels.txt`](https://github.com/JakeSteam/Jerma/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
+To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
