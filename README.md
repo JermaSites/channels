@@ -2,9 +2,9 @@
 
 The List™️ contains most Jerma fan channels that have more than 1 video, to help people keep track of them all!
 
-The list updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
+It updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
 
-*PS: The best-of-the-best have a little Otto 🐶 next to them.*
+Tap a table's header to sort by that field, the best-of-the-best have a little Otto 🐶 next to them.
 
 ### YouTube
 
