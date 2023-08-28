@@ -36,6 +36,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3.8K | 7.5M |
 | [casper](https://youtube.com/@casperclips) | 7 | 318 | 89K |
 | 🐶[Cheltie](https://youtube.com/@cheltie) | 313 | 66K | 27M |
+| [Christ, Pierre](https://youtube.com/@christpierre) | 18 | 609 | 745K |
 | [SUS](https://youtube.com/@cigarette_andy) | 36 | 1.8K | 1.9M |
 | [Daftgrass](https://youtube.com/@daftgrass) | 20 | 335 | 374K |
 | [Daniajten](https://youtube.com/@daniajten) | 152 | 1.3K | 405K |
@@ -70,6 +71,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 279 | 329K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 311 | 555K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
+| [Skipz](https://youtube.com/@skipztf2) | 3 | 9.5K | 2.2M |
 | [Skrump](https://youtube.com/@skrumped) | 1 | 4.9K | 115K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 157 | 34K | 16M |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.5K | 2.9M |
