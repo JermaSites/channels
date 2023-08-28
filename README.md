@@ -47,7 +47,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [most sane jerma985 fan](https://youtube.com/@gnatsunemiku) | 4 | 5 | 1.5K |
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 19K | 8.9M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
-| [hotblondtaurus](https://youtube.com/@hotblondtaurus) | 4 | 441 | 296K |
+| [hotblondtaurus](https://youtube.com/@hotblondtaurus) | 4 | 444 | 296K |
 | [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 284 | 476K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.2M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
@@ -63,11 +63,11 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [dumptruck](https://youtube.com/@massivedumper) | 57 | 2.3K | 2.0M |
 | [Ned Giddings](https://youtube.com/@nedgiddings9688) | 9 | 2.9K | 4.4M |
 | [nickelfront](https://youtube.com/@nickelfront) | 8 | 379 | 457K |
-| [jermaguy](https://youtube.com/@otherguy7435) | 6 | 703 | 431K |
+| [jermaguy](https://youtube.com/@otherguy7435) | 6 | 704 | 431K |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 8 | 6.9K | 5.8M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 34 | 18K | 11M |
 | [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 443 | 774K |
-| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 278 | 329K |
+| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 279 | 329K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 311 | 555K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
 | [Skrump](https://youtube.com/@skrumped) | 1 | 4.9K | 115K |
@@ -80,7 +80,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 14K |
 | [thommy](https://youtube.com/@thommy267) | 16 | 279 | 285K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
-| [w3s1](https://youtube.com/@w3s1) | 3 | 597 | 462 |
+| [w3s1](https://youtube.com/@w3s1) | 3 | 598 | 462 |
 | [Will](https://youtube.com/@willdoesediting) | 211 | 144 | 163K |
 | [whebshow](https://youtube.com/@whebshow6610) | 39 | 536 | 753K |
 | [HipsterianArchive](https://youtube.com/@wolflowmusic) | 59 | 89 | 160K |
@@ -95,7 +95,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [Arthur Effgus](https://youtube.com/@arthureffgus) | 33 | 12K | 2.2M |
 | [cake](https://youtube.com/@cake3220) | 10 | 233 | 508K |
 | 🐶[Corax](https://youtube.com/@corax) | 25 | 255K | 32M |
-| [Dilbertron](https://youtube.com/@dilbertron2) | 33 | 36 | 14K |
+| [Dilbertron](https://youtube.com/@dilbertron2) | 34 | 36 | 14K |
 | [Frogge Soup](https://youtube.com/@froggesoup) | 11 | 61 | 7.7K |
 | [GentlemanQuentin](https://youtube.com/@gentlemanquentin) | 116 | 321 | 306K |
 | [Kent Sheely](https://youtube.com/@ksheely) | 111 | 412 | 581K |
@@ -118,7 +118,7 @@ The list updates once a day (see [how it works](#how-it-works)), if you know any
 | [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.4K | 5.8M |
 | [Tentabrobpy](https://youtube.com/@tentabrobpy) | 6 | 9.6K | 1.1M |
 | [tspi](https://youtube.com/@tspi) | 26 | 105 | 74K |
-| [Xethl](https://youtube.com/@xethl) | 19 | 204 | 472K |
+| [Xethl](https://youtube.com/@xethl) | 19 | 205 | 472K |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 403 | 1.4M |
 
 #### Standalone Videos / Playlists
@@ -154,3 +154,42 @@ This list updates once per day with the latest stats for each channel. Full deta
 To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/blob/main/automation/channels.txt) to include the channel ID, channel name, and a 🐶 if it's a truly impressive channel:
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
+
+<script>
+window.onload = function() {
+    // Pull value out of the cell we're comparing
+    const getCellValue = (tr, idx) => idx === 0 ? 
+        tr.children[idx].textContent : 
+        parseFormattedInt(tr.children[idx].textContent);
+
+    // Convert formatted number into sortable numeric one
+    function parseFormattedInt(formattedInt) {
+        if (formattedInt.includes(".")) {
+            return formattedInt
+                .replace(".", "")
+                .replace("K", "00")
+                .replace("M", "00000")
+                .replace("B", "00000000");
+        } else {
+            return formattedInt
+                .replace("K", "000")
+                .replace("M", "000000")
+                .replace("B", "000000000");
+        };
+    };
+
+    // Compare function for each cell's value
+    const comparer = (idx, asc) => (a, b) => ((v1, v2) =>
+        v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
+    )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+
+    // Make clicking a header sort the contents
+    document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+        const table = th.closest('table');
+        const tbody = table.querySelector('tbody');
+        Array.from(tbody.querySelectorAll('tr'))
+            .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+            .forEach(tr => tbody.appendChild(tr));
+    })));
+}
+</script>
