@@ -35,7 +35,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [arson](https://youtube.com/@arsonclips) | 248 | 18K | 27M |
 | [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3.8K | 7.5M |
 | [casper](https://youtube.com/@casperclips) | 7 | 318 | 89K |
-| 🐶[Cheltie](https://youtube.com/@cheltie) | 313 | 66K | 27M |
+| 🐶[Cheltie](https://youtube.com/@cheltie) | 314 | 66K | 27M |
 | [Christ, Pierre](https://youtube.com/@christpierre) | 18 | 610 | 748K |
 | [SUS](https://youtube.com/@cigarette_andy) | 36 | 1.8K | 1.9M |
 | [Daftgrass](https://youtube.com/@daftgrass) | 20 | 335 | 374K |
@@ -103,14 +103,14 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [Kent Sheely](https://youtube.com/@ksheely) | 111 | 412 | 581K |
 | [HadrianDev](https://youtube.com/@hadriandev) | 4 | 159 | 32K |
 | 🐶[japanesecoffee](https://youtube.com/@japanesecoffeemusic) | 169 | 4.4K | 2.0M |
-| [jerma985fanpage](https://youtube.com/@jerma985fanpage) | 19 | 143 | 93K |
+| [jerma985fanpage](https://youtube.com/@jerma985fanpage) | 19 | 144 | 93K |
 | [jermaDab](https://youtube.com/@jermadab) | 15 | 2.8K | 1.3M |
 | [JermAI](https://youtube.com/@jermai985) | 5 | 102 | 14K |
 | [RatshitCrazy](https://youtube.com/@kengaruz) | 57 | 489 | 554K |
 | [Mason Jamez](https://youtube.com/@masonjamez) | 28 | 34K | 15M |
 | 🐶[August](https://youtube.com/@miiyooh) | 21 | 1.2K | 603K |
 | [Mjfreddyboy](https://youtube.com/@mjfreddyboy2976) | 34 | 48 | 33K |
-| [Red Paint Spray](https://youtube.com/@redpaintspray) | 40 | 68 | 17K |
+| [Red Paint Spray](https://youtube.com/@redpaintspray) | 40 | 67 | 17K |
 | [shoegreaser](https://youtube.com/@shoegreaser) | 11 | 1.9K | 1.1M |
 | [SirloinBurgers](https://youtube.com/@sirloinburgers) | 9 | 8.3K | 259K |
 | [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 7 | 641 | 83K |
@@ -157,41 +157,4 @@ To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/b
 * Channel ID can be retrieved from a profile at `About` -> `Share` -> `Copy channel ID`
 * Channel name is not used, except to make the file more readable.
 
-<script>
-window.onload = function() {
-    // Pull value out of the cell we're comparing
-    const getCellValue = (tr, idx) => idx === 0 ? 
-        tr.children[idx].textContent : 
-        parseFormattedInt(tr.children[idx].textContent);
-
-    // Convert formatted number into sortable numeric one
-    function parseFormattedInt(formattedInt) {
-        if (formattedInt.includes(".")) {
-            return formattedInt
-                .replace(".", "")
-                .replace("K", "00")
-                .replace("M", "00000")
-                .replace("B", "00000000");
-        } else {
-            return formattedInt
-                .replace("K", "000")
-                .replace("M", "000000")
-                .replace("B", "000000000");
-        };
-    };
-
-    // Compare function for each cell's value
-    const comparer = (idx, asc) => (a, b) => ((v1, v2) =>
-        v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
-    )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
-
-    // Make clicking a header sort the contents
-    document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
-        const table = th.closest('table');
-        const tbody = table.querySelector('tbody');
-        Array.from(tbody.querySelectorAll('tr'))
-            .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
-            .forEach(tr => tbody.appendChild(tr));
-    })));
-}
-</script>
+<script src="/js/tablesort.js"></script>
