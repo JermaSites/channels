@@ -19,7 +19,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 
 | Channel | # Videos | Subscribers | Views |
 | --- | --- | --- | --- |
-| 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 773 | 276K | 89M |
+| 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 775 | 276K | 89M |
 | [Ster/Jerma Stream Archive](https://youtube.com/@sterjermastreamarchive) | 972 | 47K | 20M |
 | [starkiller201096x](https://youtube.com/@starkiller201096x) | 79 | 2.9K | 1.5M |
 | [Jerma Stream Archive [With Chat]](https://youtube.com/@jermastreamarchivewithchat) | 303 | 11K | 4.7M |
@@ -55,6 +55,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 149 | 60K |
 | [Jerma Clips](https://youtube.com/@jermaclips) | 408 | 42K | 36M |
 | [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.5K | 79K | 131M |
+| [jermaguy](https://youtube.com/@otherguy7435) | 6 | 704 | 431K |
 | [Jermoments](https://youtube.com/@jermoments) | 320 | 15K | 12M |
 | [John Crops](https://youtube.com/@johncrops) | 13 | 12K | 6.4M |
 | [kimisanerd](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.2M |
@@ -64,7 +65,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [dumptruck](https://youtube.com/@massivedumper) | 58 | 2.3K | 2.0M |
 | [Ned Giddings](https://youtube.com/@nedgiddings9688) | 9 | 2.9K | 4.4M |
 | [nickelfront](https://youtube.com/@nickelfront) | 8 | 379 | 457K |
-| [jermaguy](https://youtube.com/@otherguy7435) | 6 | 704 | 431K |
+| [Peachy Edits](https://youtube.com/@peachy_edits) | 9 | 6.2K | 6.0M |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 8 | 6.9K | 5.8M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 34 | 18K | 11M |
 | [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 443 | 774K |
@@ -120,7 +121,7 @@ Tap a table's header to sort by that field, the best-of-the-best have a little O
 | [TatoAndy3D](https://youtube.com/@tatoandy3d) | 72 | 7.4K | 5.8M |
 | [Tentabrobpy](https://youtube.com/@tentabrobpy) | 6 | 9.6K | 1.1M |
 | [tspi](https://youtube.com/@tspi) | 26 | 105 | 74K |
-| [Xethl](https://youtube.com/@xethl) | 19 | 207 | 474K |
+| [Xethl](https://youtube.com/@xethl) | 20 | 207 | 474K |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 403 | 1.4M |
 
 #### Standalone Videos / Playlists
