@@ -9,7 +9,7 @@ while read -r LINE; do
     if [[ ${LINE} == ${HEADER_PREFIX}* ]]; then
         echo "Adding header ${LINE}"
         OUTPUT="${OUTPUT}\n${LINE}\n\n"
-        OUTPUT="${OUTPUT}| Channel | # Videos | Subscribers | Views |\n| --- | --- | --- | --- |\n"
+        OUTPUT="${OUTPUT}| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |\n| --- | --- | --- | --- |\n"
     else
         IFS=';' read -r -a ARRAY_LINE <<< "${LINE}" # Split line by semi-colon
         echo "Adding channel ${ARRAY_LINE[1]} (${ARRAY_LINE[0]})"
