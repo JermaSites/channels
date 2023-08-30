@@ -11,12 +11,12 @@ window.onload = function() {
                 .replace(".", "")
                 .replace("K", "00")
                 .replace("M", "00000")
-                .replace("B", "00000000");
+                .replace("G", "00000000");
         } else {
             return formattedInt
                 .replace("K", "000")
                 .replace("M", "000000")
-                .replace("B", "000000000");
+                .replace("G", "000000000");
         };
     };
 
