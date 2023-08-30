@@ -4,7 +4,7 @@ The List™️ contains most Jerma fan channels that have more than 1 video, to 
 
 It updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
 
-Tap a table's header to sort by that field, the best-of-the-best have a little Otto 🐶 next to them.
+The best-of-the-best have a little Otto 🐶 next to them.
 
 ### YouTube
 dynamic-channel-data
@@ -43,3 +43,4 @@ To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/b
 * Channel name is not used, except to make the file more readable.
 
 <script src="/js/tablesort.js"></script>
+<link rel="stylesheet" href="/css/tweaks.css">
