@@ -30,7 +30,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 619 | 1.2M |
-| [abster](https://youtube.com/@abster11) | 1 | 24 | 16K |
+| [abster](https://youtube.com/@abster11) | 1 | 25 | 16K |
 | [andrecóptero](https://youtube.com/@andrecoptero) | 15 | 313 | 212K |
 | [arson](https://youtube.com/@arsonclips) | 248 | 18K | 27M |
 | [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3.8K | 7.5M |
@@ -113,7 +113,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Mjfreddyboy](https://youtube.com/@mjfreddyboy2976) | 34 | 49 | 33K |
 | [Red Paint Spray](https://youtube.com/@redpaintspray) | 39 | 70 | 18K |
 | [shoegreaser](https://youtube.com/@shoegreaser) | 11 | 1.9K | 1.1M |
-| [SirloinBurgers](https://youtube.com/@sirloinburgers) | 10 | 8.7K | 276K |
+| [SirloinBurgers](https://youtube.com/@sirloinburgers) | 10 | 8.8K | 276K |
 | [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 7 | 643 | 83K |
 | [Slab Mangrave](https://youtube.com/@slabmangrave) | 4 | 7.5K | 800K |
 | [Slime Time](https://youtube.com/@slimetime792) | 11 | 284 | 87K |
@@ -159,4 +159,5 @@ To add a channel, edit [`channels.txt`](https://github.com/JermaSites/channels/b
 * Channel name is not used, except to make the file more readable.
 
 <script src="/js/tablesort.js"></script>
+<script src="/js/new_window.js"></script>
 <link rel="stylesheet" href="/css/tweaks.css">
