@@ -51,6 +51,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [hotblondtaurus](https://youtube.com/@hotblondtaurus) | 5 | 464 | 314K |
 | [Ivy_01](https://youtube.com/@ivy_0149) | 9 | 296 | 531K |
 | [JackEdit](https://youtube.com/@jackclishem) | 59 | 21K | 8.3M |
+| [Jeremy985 clips](https://youtube.com/@jeremy985clips3) | 14 | 1.4K | 1.5M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.0M |
 | [Jerma & Friends](https://youtube.com/@jermaandfriends) | 13 | 149 | 60K |
 | [Jerma Clips](https://youtube.com/@jermaclips) | 410 | 43K | 37M |
@@ -72,7 +73,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 14 | 289 | 344K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 315 | 567K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
-| [Skipz](https://youtube.com/@skipztf2) | 3 | 9.6K | 2.3M |
+| [Skipz](https://youtube.com/@skipztf2) | 3 | 9.7K | 2.3M |
 | [Skrump](https://youtube.com/@skrumped) | 2 | 5.5K | 148K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 158 | 34K | 16M |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.6K | 2.9M |
@@ -106,7 +107,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | 🐶[japanesecoffee](https://youtube.com/@japanesecoffeemusic) | 168 | 4.5K | 2.0M |
 | [jerma985fanpage](https://youtube.com/@jerma985fanpage) | 19 | 169 | 105K |
 | [jermaDab](https://youtube.com/@jermadab) | 15 | 2.8K | 1.3M |
-| [JermAI](https://youtube.com/@jermai985) | 5 | 129 | 17K |
+| [JermAI](https://youtube.com/@jermai985) | 5 | 130 | 17K |
 | [RatshitCrazy](https://youtube.com/@kengaruz) | 57 | 488 | 554K |
 | [Mason Jamez](https://youtube.com/@masonjamez) | 28 | 34K | 15M |
 | 🐶[August](https://youtube.com/@miiyooh) | 17 | 1.2K | 596K |
