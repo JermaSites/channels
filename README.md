@@ -84,9 +84,9 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 14K |
 | [thommy](https://youtube.com/@thommy267) | 16 | 296 | 317K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 19K | 17M |
-| [w3s1](https://youtube.com/@w3s1) | 5 | 666 | 68K |
+| [w3s1](https://youtube.com/@w3s1) | 5 | 665 | 68K |
 | [Will](https://youtube.com/@willdoesediting) | 211 | 161 | 197K |
-| [whebshow](https://youtube.com/@whebshow6610) | 39 | 538 | 759K |
+| [whebshow](https://youtube.com/@whebshow6610) | 39 | 537 | 759K |
 | [HipsterianArchive](https://youtube.com/@hipsterianarchive) | 59 | 97 | 176K |
 | [daisy](https://youtube.com/@yenadaisy) | 9 | 518 | 59K |
 
