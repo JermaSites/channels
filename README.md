@@ -24,6 +24,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [starkiller201096x](https://youtube.com/@starkiller201096x) | 79 | 2.9K | 1.5M |
 | [Jerma Stream Archive [With Chat]](https://youtube.com/@jermastreamarchivewithchat) | 303 | 11K | 4.9M |
 | [Old Jerma Stream Archive [with Chat]](https://youtube.com/@oldjermastreamarchivewithc4062) | 236 | 3.8K | 1.3M |
+| [Mike322](https://youtube.com/@mike-gk7es) | 274 | 4.5K | 3.9M |
 
 #### Highlights / Clips / Compilations
 
@@ -60,7 +61,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Jermoments](https://youtube.com/@jermoments) | 320 | 15K | 12M |
 | [John Crops](https://youtube.com/@johncrops) | 14 | 13K | 6.7M |
 | [kimisanerd](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.2M |
-| [liam](https://youtube.com/@liammcgrath7051) | 6 | 229 | 377K |
+| [liam](https://youtube.com/@liammcgrath7051) | 6 | 227 | 377K |
 | [Limerific](https://youtube.com/@limerific) | 35 | 526 | 858K |
 | [Lucas Santana](https://youtube.com/@lucas19santana98) | 40 | 1.6K | 1.8M |
 | [dumptruck](https://youtube.com/@massivedumper) | 64 | 2.5K | 2.2M |
@@ -107,7 +108,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | 🐶[japanesecoffee](https://youtube.com/@japanesecoffeemusic) | 167 | 4.6K | 2.2M |
 | [jerma985fanpage](https://youtube.com/@jerma985fanpage) | 19 | 171 | 106K |
 | [jermaDab](https://youtube.com/@jermadab) | 15 | 2.9K | 1.4M |
-| [JermAI](https://youtube.com/@jermai985) | 5 | 187 | 26K |
+| [JermAI](https://youtube.com/@jermai985) | 5 | 188 | 26K |
 | [RatshitCrazy](https://youtube.com/@kengaruz) | 58 | 486 | 554K |
 | [Mason Jamez](https://youtube.com/@masonjamez) | 28 | 34K | 15M |
 | 🐶[August](https://youtube.com/@miiyooh) | 17 | 1.2K | 599K |
