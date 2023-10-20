@@ -61,7 +61,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Jermoments](https://youtube.com/@jermoments) | 320 | 15K | 12M |
 | [John Crops](https://youtube.com/@johncrops) | 14 | 13K | 6.8M |
 | [kimisanerd](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.2M |
-| [liam](https://youtube.com/@liammcgrath7051) | 6 | 254 | 411K |
+| [liam](https://youtube.com/@liammcgrath7051) | 6 | 255 | 411K |
 | [Limerific](https://youtube.com/@limerific) | 35 | 529 | 859K |
 | [Lucas Santana](https://youtube.com/@lucas19santana98) | 40 | 1.6K | 1.8M |
 | [dumptruck](https://youtube.com/@massivedumper) | 64 | 2.5K | 2.2M |
@@ -75,8 +75,9 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 317 | 573K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
 | [Skipz](https://youtube.com/@skipztf2) | 3 | 9.8K | 2.3M |
-| [Skrump](https://youtube.com/@skrumped) | 3 | 5.5K | 153K |
+| [Skrump](https://youtube.com/@skrumped) | 3 | 5.6K | 153K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 159 | 35K | 17M |
+| [smolbeanjerma](https://youtube.com/@smolbeanjerma) | 6 | 98 | 35K |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.7K | 3.0M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 7 | 55 | 137K |
 | [srgxz](https://youtube.com/@srgxz) | 240 | 7.2K | 20M |
@@ -122,7 +123,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [super otto pets](https://youtube.com/@superottopets) | 6 | 348 | 1.1M |
 | [TatoAndy3D](https://youtube.com/@tatoandy3d) | 0 | 7.4K | 0 |
 | [Tentabrobpy](https://youtube.com/@tentabrobpy) | 6 | 9.8K | 1.1M |
-| [tspi](https://youtube.com/@tspi) | 33 | 160 | 166K |
+| [tspi](https://youtube.com/@tspi) | 33 | 160 | 163K |
 | [Xethl](https://youtube.com/@xethl) | 37 | 243 | 549K |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 403 | 1.4M |
 
