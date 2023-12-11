@@ -12,7 +12,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Jerma985](https://youtube.com/@jerma985) | 712 | 937K | 231M |
+| [Jerma985](https://youtube.com/@jerma985) | 712 | 938K | 231M |
 | [2ndJerma](https://youtube.com/@2ndjerma) | 1.1K | 771K | 286M |
 
 #### Stream Archives
@@ -21,7 +21,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | --- | --- | --- | --- |
 | 🐶[Jerma Stream Archive](https://youtube.com/@jermastreamarchive) | 790 | 289K | 97M |
 | [Ster/Jerma Stream Archive](https://youtube.com/@sterjermastreamarchive) | 972 | 48K | 21M |
-| [starkiller201096x](https://youtube.com/@starkiller201096x) | 79 | 2.9K | 1.6M |
+| [starkiller201096x](https://youtube.com/@starkiller201096x) | 79 | 3.0K | 1.6M |
 | [Jerma Stream Archive [With Chat]](https://youtube.com/@jermastreamarchivewithchat) | 303 | 12K | 5.0M |
 | [Old Jerma Stream Archive [with Chat]](https://youtube.com/@oldjermastreamarchivewithc4062) | 236 | 4.0K | 1.4M |
 | [Mike322](https://youtube.com/@mike-gk7es) | 274 | 4.8K | 4.2M |
@@ -30,19 +30,19 @@ The best-of-the-best have a little Otto 🐶 next to them.
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 674 | 1.3M |
-| [abster](https://youtube.com/@abster11) | 6 | 240 | 126K |
-| [andrecóptero](https://youtube.com/@andrecoptero) | 15 | 347 | 255K |
+| [4sealsinacoat](https://youtube.com/@4sealsinacoat697) | 9 | 675 | 1.3M |
+| [abster](https://youtube.com/@abster11) | 6 | 243 | 127K |
+| [andrecóptero](https://youtube.com/@andrecoptero) | 15 | 348 | 255K |
 | [arson](https://youtube.com/@arsonclips) | 249 | 18K | 28M |
 | [benjamin counter](https://youtube.com/@benjamincounter) | 99 | 3.8K | 7.6M |
 | [casper](https://youtube.com/@casperclips) | 7 | 316 | 88K |
 | 🐶[Cheltie](https://youtube.com/@cheltie) | 324 | 67K | 29M |
-| [Christ, Pierre](https://youtube.com/@christpierre) | 19 | 687 | 888K |
+| [Christ, Pierre](https://youtube.com/@christpierre) | 19 | 687 | 891K |
 | [SUS](https://youtube.com/@cigarette_andy) | 36 | 1.9K | 2.1M |
 | [Daftgrass](https://youtube.com/@daftgrass) | 20 | 331 | 375K |
 | [Daniajten](https://youtube.com/@daniajten) | 154 | 1.3K | 423K |
 | [El Conno](https://youtube.com/@elconno359) | 30 | 2.1K | 5.8M |
-| [english enby ™](https://youtube.com/@englishenby) | 9 | 20 | 4.0K |
+| [english enby ™](https://youtube.com/@englishenby) | 11 | 22 | 4.9K |
 | [Erasmus Magnus](https://youtube.com/@erasmusmagnusr) | 43 | 1.2K | 1.5M |
 | [FerretNoir](https://youtube.com/@ferretnoir) | 24 | 3.8K | 4.7M |
 | [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 222 | 168K |
@@ -50,7 +50,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Golden_Winged](https://youtube.com/@golden_winged8736) | 12 | 20K | 9.6M |
 | [Holy Mackerel the Third](https://youtube.com/@holymackerelthethird2478) | 31 | 19K | 2.6M |
 | [hotblondtaurus](https://youtube.com/@hotblondtaurus) | 5 | 473 | 322K |
-| [Ivy_01](https://youtube.com/@ivy_0149) | 10 | 361 | 604K |
+| [Ivy_01](https://youtube.com/@ivy_0149) | 10 | 362 | 605K |
 | [JackEdit](https://youtube.com/@jackclishem) | 60 | 21K | 8.5M |
 | [Jeremy985 clips](https://youtube.com/@jeremy985clips3) | 14 | 1.4K | 1.5M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.5K | 7.1M |
@@ -61,36 +61,36 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Jermoments](https://youtube.com/@jermoments) | 320 | 15K | 12M |
 | [John Crops](https://youtube.com/@johncrops) | 14 | 14K | 7.1M |
 | [kimisanerd](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.2M |
-| [liam](https://youtube.com/@liammcgrath7051) | 6 | 360 | 631K |
-| [Limerific](https://youtube.com/@limerific) | 36 | 549 | 878K |
+| [liam](https://youtube.com/@liammcgrath7051) | 6 | 362 | 633K |
+| [Limerific](https://youtube.com/@limerific) | 36 | 549 | 879K |
 | [Lucas Santana](https://youtube.com/@lucas19santana98) | 42 | 1.6K | 1.8M |
 | [dumptruck](https://youtube.com/@massivedumper) | 78 | 3.5K | 2.4M |
 | [Ned Giddings](https://youtube.com/@nedgiddings9688) | 9 | 3.2K | 4.8M |
-| [nickelfront](https://youtube.com/@nickelfront) | 8 | 378 | 460K |
+| [nickelfront](https://youtube.com/@nickelfront) | 8 | 379 | 460K |
 | [Peachy Edits](https://youtube.com/@peachy_edits) | 9 | 6.2K | 6.2M |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 8 | 6.9K | 5.9M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 34 | 19K | 12M |
 | [richard d. james](https://youtube.com/@richarddjames-uy2hy) | 11 | 444 | 784K |
-| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 15 | 291 | 362K |
+| [Robert Schwartz](https://youtube.com/@robertschwartz4083) | 15 | 290 | 363K |
 | [roversfan 111](https://youtube.com/@roversfan1115) | 8 | 318 | 579K |
 | [sam bagels](https://youtube.com/@sambagels6476) | 32 | 1.2K | 1.6M |
 | [Skipz](https://youtube.com/@skipztf2) | 3 | 10K | 2.5M |
-| [Skrump](https://youtube.com/@skrumped) | 4 | 6.5K | 246K |
+| [Skrump](https://youtube.com/@skrumped) | 4 | 6.5K | 247K |
 | 🐶[Skye4](https://youtube.com/@skye4) | 161 | 37K | 18M |
-| [smolbeanjerma](https://youtube.com/@smolbeanjerma) | 6 | 215 | 119K |
+| [smolbeanjerma](https://youtube.com/@smolbeanjerma) | 6 | 215 | 120K |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 14 | 2.7K | 3.1M |
 | [Sol Harv](https://youtube.com/@solharv7817) | 7 | 54 | 137K |
 | [srgxz](https://youtube.com/@srgxz) | 241 | 7.4K | 21M |
 | 🐶[SuperDazza - Best of Jerma](https://youtube.com/@superdazza) | 223 | 96K | 40M |
-| [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 346 | 845K |
+| [TachReloaded](https://youtube.com/@tachreloaded) | 8 | 347 | 845K |
 | [The Jerma Collection](https://youtube.com/@thejermacollection) | 20 | 1.3K | 14K |
 | [thommy](https://youtube.com/@thommy267) | 16 | 310 | 337K |
 | [UncleDrew](https://youtube.com/@uncledrew1) | 55 | 18K | 17M |
 | [w3s1](https://youtube.com/@w3s1) | 1 | 706 | 139K |
-| [Will](https://youtube.com/@willdoesediting) | 222 | 218 | 358K |
+| [Will](https://youtube.com/@willdoesediting) | 219 | 218 | 358K |
 | [whebshow](https://youtube.com/@whebshow6610) | 40 | 534 | 768K |
 | [HipsterianArchive](https://youtube.com/@hipsterianarchive) | 60 | 99 | 180K |
-| [daisy](https://youtube.com/@yenadaisy) | 9 | 599 | 100K |
+| [daisy](https://youtube.com/@yenadaisy) | 9 | 600 | 100K |
 
 #### Animations / Green Screen / Music
 
@@ -100,7 +100,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Parzival](https://youtube.com/@parzivalcarnival) | 9 | 4.3K | 1.2M |
 | [Arthur Effgus](https://youtube.com/@arthureffgus) | 37 | 16K | 3.0M |
 | [cake](https://youtube.com/@cake3220) | 10 | 232 | 509K |
-| 🐶[Corax](https://youtube.com/@corax) | 32 | 283K | 36M |
+| 🐶[Corax](https://youtube.com/@corax) | 32 | 284K | 36M |
 | [Dilbertron](https://youtube.com/@dilbertron2) | 34 | 37 | 18K |
 | [Frogge Soup](https://youtube.com/@froggesoup) | 11 | 80 | 11K |
 | [GentlemanQuentin](https://youtube.com/@gentlemanquentin) | 130 | 338 | 326K |
@@ -116,14 +116,14 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Mjfreddyboy](https://youtube.com/@mjfreddyboy2976) | 34 | 49 | 33K |
 | [Red Paint Spray](https://youtube.com/@redpaintspray) | 39 | 74 | 22K |
 | [shoegreaser](https://youtube.com/@shoegreaser) | 11 | 1.9K | 1.1M |
-| [SirloinBurgers](https://youtube.com/@sirloinburgers) | 12 | 17K | 589K |
-| [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 8 | 812 | 128K |
+| [SirloinBurgers](https://youtube.com/@sirloinburgers) | 12 | 17K | 592K |
+| [SpicyFingers Art](https://youtube.com/@spicyfingersart) | 8 | 815 | 129K |
 | [Slab Mangrave](https://youtube.com/@slabmangrave) | 4 | 7.6K | 835K |
 | [Slime Time](https://youtube.com/@slimetime792) | 11 | 284 | 87K |
 | [super otto pets](https://youtube.com/@superottopets) | 0 | 345 | 0 |
-| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 1 | 7.2K | 467 |
+| [TatoAndy3D](https://youtube.com/@tatoandy3d) | 1 | 7.2K | 470 |
 | [Tentabrobpy](https://youtube.com/@tentabrobpy) | 6 | 9.9K | 1.1M |
-| [tspi](https://youtube.com/@tspi) | 44 | 453 | 279K |
+| [tspi](https://youtube.com/@tspi) | 45 | 463 | 282K |
 | [Xethl](https://youtube.com/@xethl) | 37 | 241 | 550K |
 | [Y_A](https://youtube.com/@ykobi) | 23 | 405 | 1.4M |
 
