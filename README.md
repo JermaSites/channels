@@ -2,7 +2,7 @@
 
 The List™️ contains most Jerma fan channels that have more than 1 video, to help people keep track of them all!
 
-It updates once a day (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
+It updates once a week (see [how it works](#how-it-works)), if you know any additional channels please [add them](#adding-channel) (or [ask me to](mailto:jake@jakelee.co.uk)). 
 
 The best-of-the-best have a little Otto 🐶 next to them.
 
@@ -154,7 +154,7 @@ See [Jerma Fan Games](https://jerma-lore.fandom.com/wiki/Jerma_Fan_Games) on the
 
 ### Updating
 
-This list updates once per day with the latest stats for each channel. Full details [are available here](https://blog.jakelee.co.uk/fetching-youtube-metadata-in-github-actions-and-persisting/).
+This list updates once per week with the latest stats for each channel. Full details [are available here](https://blog.jakelee.co.uk/fetching-youtube-metadata-in-github-actions-and-persisting/).
 
 ### Adding channel
 
