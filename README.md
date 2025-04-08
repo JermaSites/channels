@@ -61,6 +61,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.7K | 98K | 151M |
 | [jermaguy](https://youtube.com/@otherguy7435) | 6 | 713 | 447K |
 | [Jermoments](https://youtube.com/@jermoments) | 480 | 18K | 16M |
+| [Jermyot](https://youtube.com/@jermyot) | 14 | 1.9K | 306K |
 | [John Crops](https://youtube.com/@johncrops) | 15 | 18K | 11M |
 | [Kim Johnson](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.3M |
 | [liam](https://youtube.com/@liammcgrath7051) | 7 | 476 | 945K |
