@@ -57,9 +57,10 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [JackEdit](https://youtube.com/@jackclishem) | 60 | 21K | 8.9M |
 | [Jeremy985 clips](https://youtube.com/@jeremy985clips3) | 14 | 2.6K | 2.6M |
 | [Jerma985 Out Of Context](https://youtube.com/@jerma985outofcontext) | 694 | 9.8K | 7.7M |
+| [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.7K | 98K | 151M |
 | [Jerma dynamic-channel-data Friends](https://youtube.com/@jermaandfriends) | 13 | 143 | 62K |
 | [Jerma Clips](https://youtube.com/@jermaclips) | 482 | 63K | 51M |
-| [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.7K | 98K | 151M |
+| [Jerma Funny Clips](https://youtube.com/@mark-ul2xx) | 19 | 3.9K | 1.5M |
 | [jermaguy](https://youtube.com/@otherguy7435) | 6 | 713 | 447K |
 | [Jermoments](https://youtube.com/@jermoments) | 480 | 18K | 16M |
 | [Jermyot](https://youtube.com/@jermyot) | 14 | 1.9K | 306K |
