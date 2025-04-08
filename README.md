@@ -46,6 +46,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [TheeEnglishKnight](https://youtube.com/@theeenglishknight) | 15 | 41 | 57K |
 | [Erasmus Magnus](https://youtube.com/@erasmusmagnusr) | 46 | 2.1K | 3.2M |
 | [FerretNoir](https://youtube.com/@ferretnoir) | 24 | 4.5K | 6.3M |
+| [fpfz](https://youtube.com/@oblivionaccess) | 14 | 1.8K | 387K |
 | [fishyishie](https://youtube.com/@fishyishie) | 9 | 217 | 126K |
 | [FrogChomp](https://youtube.com/@frogchomp3673) | 6 | 233 | 186K |
 | [most sane jerma985 fan](https://youtube.com/@gnatsunemiku) | 4 | 7 | 1.8K |
@@ -61,7 +62,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [Jerma985 Shorts](https://youtube.com/@jermatwitchclips) | 2.7K | 98K | 151M |
 | [jermaguy](https://youtube.com/@otherguy7435) | 6 | 713 | 447K |
 | [Jermoments](https://youtube.com/@jermoments) | 480 | 18K | 16M |
-| [Jermyot](https://youtube.com/@jermyot) | 14 | 1.9K | 305K |
+| [Jermyot](https://youtube.com/@jermyot) | 14 | 1.9K | 306K |
 | [John Crops](https://youtube.com/@johncrops) | 15 | 18K | 11M |
 | [Kim Johnson](https://youtube.com/@kimisanerd2) | 37 | 4.0K | 2.3M |
 | [kyle](https://youtube.com/@kylesvideochannel) | 27 | 4.5K | 1.6M |
