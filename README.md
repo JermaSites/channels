@@ -82,7 +82,6 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [sam bagels](https://youtube.com/@sambagels6476) | 97 | 1.2K | 1.9M |
 | [samquik](https://youtube.com/@samquik) | 76 | 7.7K | 11M |
 | [Skipz](https://youtube.com/@skipztf2) | 5 | 22K | 4.6M |
-| [Skrump](https://youtube.com/@skrumped) | 56 | 15K | 1.6M |
 | 🐶[Skye4](https://youtube.com/@skye4) | 180 | 48K | 28M |
 | [smolbeanjerma](https://youtube.com/@smolbeanjerma) | 10 | 414 | 216K |
 | [Smurf Kobain](https://youtube.com/@smurfkobain6830) | 15 | 3.3K | 4.2M |
