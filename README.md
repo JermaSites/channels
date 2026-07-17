@@ -78,6 +78,7 @@ The best-of-the-best have a little Otto 🐶 next to them.
 | [mimas](https://youtube.com/@thenewunicorn) | 17 | 566 | 175K |
 | [Ned Giddings](https://youtube.com/@nedgiddings9688) | 3 | 4.0K | 6.9M |
 | [nickelfront](https://youtube.com/@nickelfront) | 8 | 367 | 474K |
+| [nork](https://youtube.com/@n9591.) | 6 | 415 | 6.7K |
 | [Peachy Edits](https://youtube.com/@peachy_edits) | 10 | 6.7K | 7.3M |
 | [puppuccino](https://youtube.com/@puppuccino1728) | 9 | 6.9K | 6.4M |
 | [Pythanoc](https://youtube.com/@pythanoc) | 35 | 23K | 17M |
